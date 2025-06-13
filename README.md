@@ -1,3 +1,6 @@
+# VERSION 2.0 RELEASED
+See the Workflow2.0 folder for the latest updates: counting the number of individuals and extracting frames from video files
+
 # DIY-YOLO-R-workflow-
 This repository comprises the sample images necessary to execute the Do-It-Yourself version of the workflow outlined by Petroni et al., provided as an R script alongside the paper. The DIY flow allows both YOLO training and inference using a limited set of images gathered from three distinct camera trap sites in the Apuan Alps, with a focus on three target species of carnivores: the European badger, wolf, and martens (considered as a higher-order category encompassing both stone marten and pine marten).
 # DIY Expected results
